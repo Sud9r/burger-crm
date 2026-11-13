@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="30" x2="1140" y2="610" gradientUnits="userSpaceOnUse"><stop stop-color="#21150F"/><stop offset=".55" stop-color="#17110D"/><stop offset="1" stop-color="#3A2113"/></linearGradient>
+    <linearGradient id="accent" x1="100" y1="100" x2="360" y2="470" gradientUnits="userSpaceOnUse"><stop stop-color="#F4B15F"/><stop offset="1" stop-color="#C45E22"/></linearGradient>
+    <linearGradient id="panel" x1="430" y1="130" x2="1100" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#302219"/><stop offset="1" stop-color="#211711"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(280 230 -270 328 890 270)" gradientUnits="userSpaceOnUse"><stop stop-color="#D97930" stop-opacity=".28"/><stop offset="1" stop-color="#D97930" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="405" y="95" width="790" height="510" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="630" rx="28" fill="url(#bg)"/>
+  <circle cx="1040" cy="86" r="270" fill="url(#glow)"/>
+  <circle cx="80" cy="590" r="210" fill="#C76D2F" opacity=".06"/>
+  <g opacity=".2" stroke="#E8B27B"><circle cx="1030" cy="292" r="210"/><circle cx="1030" cy="292" r="246" stroke-dasharray="5 11"/></g>
+  <g transform="translate(74 82)">
+    <rect width="56" height="56" rx="17" fill="url(#accent)"/>
+    <path d="M13 27c1-9 8-15 15-15s14 6 15 15H13Z" fill="#F9D18C" stroke="#56331D" stroke-width="2.6"/>
+    <path d="M11 30h34v5H11z" fill="#79A45B" stroke="#56331D" stroke-width="2.6"/>
+    <path d="M12 38h32c-2 7-8 10-16 10s-14-3-16-10Z" fill="#E5A14B" stroke="#56331D" stroke-width="2.6"/>
+    <path d="m21 20 1-1m8-3 2 1m7 4 1-1" stroke="#FFF1C8" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="146" y="105" fill="#F7EDE3" font-family="Manrope,Arial,sans-serif" font-size="17" font-weight="800">БУРГЕРНАЯ</text>
+  <text x="74" y="250" fill="#F8F0E8" font-family="Manrope,Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-2">CRM, которая</text>
+  <text x="74" y="309" fill="#F8F0E8" font-family="Manrope,Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-2">не мешает</text>
+  <text x="74" y="368" fill="#F2A24D" font-family="Manrope,Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-2">работать.</text>
+  <text x="77" y="423" fill="#BDA99A" font-family="Manrope,Arial,sans-serif" font-size="17">Заказы, гости, меню и аналитика — в одном месте.</text>
+  <g transform="translate(77 470)">
+    <rect width="124" height="34" rx="9" fill="#D98235" fill-opacity=".16" stroke="#E69A4F" stroke-opacity=".35"/>
+    <text x="62" y="22" text-anchor="middle" fill="#F0B77B" font-family="Manrope,Arial,sans-serif" font-size="11" font-weight="800">REACT · TS</text>
+    <rect x="136" width="128" height="34" rx="9" fill="#FFFFFF" fill-opacity=".035" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="200" y="22" text-anchor="middle" fill="#D8C8B9" font-family="Manrope,Arial,sans-serif" font-size="11" font-weight="800">TAILWIND 4</text>
+    <rect x="276" width="116" height="34" rx="9" fill="#FFFFFF" fill-opacity=".035" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="334" y="22" text-anchor="middle" fill="#D8C8B9" font-family="Manrope,Arial,sans-serif" font-size="11" font-weight="800">OPEN SOURCE</text>
+  </g>
+  <g filter="url(#shadow)" opacity=".5"><rect x="435" y="116" width="705" height="438" rx="23" fill="#000"/></g>
+  <g transform="translate(450 113)">
+    <rect width="690" height="438" rx="20" fill="url(#panel)" stroke="#E8C5A6" stroke-opacity=".16"/>
+    <path d="M0 55h690" stroke="#F6E6D7" stroke-opacity=".1"/>
+    <rect x="20" y="17" width="22" height="22" rx="7" fill="url(#accent)"/>
+    <path d="M25 28c1-4 4-6 6-6s5 2 6 6H25Z" fill="#603919"/><path d="M24 30h14" stroke="#603919" stroke-width="2"/>
+    <text x="53" y="32" fill="#F7EDE3" font-family="Manrope,Arial,sans-serif" font-size="12" font-weight="800">Бургерная</text>
+    <text x="558" y="32" fill="#BCA99A" font-family="Manrope,Arial,sans-serif" font-size="10">Алексей Смирнов</text>
+    <circle cx="645" cy="27" r="14" fill="#815136"/><text x="645" y="31" text-anchor="middle" fill="#FFF0E4" font-family="Arial,sans-serif" font-size="9" font-weight="700">АС</text>
+    <text x="24" y="88" fill="#E8A158" font-family="Manrope,Arial,sans-serif" font-size="8" font-weight="800" letter-spacing="1.3">ДЕМО-РЕЖИМ · ПРИМЕР ДАННЫХ</text>
+    <text x="24" y="119" fill="#F7EDE3" font-family="Manrope,Arial,sans-serif" font-size="24" font-weight="800">Привет, Алексей! ✌</text>
+    <text x="24" y="141" fill="#BDAA9B" font-family="Manrope,Arial,sans-serif" font-size="10">Сегодня отличный день для новых заказов.</text>
+    <rect x="24" y="157" width="112" height="31" rx="8" fill="url(#accent)"/>
+    <text x="80" y="177" text-anchor="middle" fill="#2A190E" font-family="Manrope,Arial,sans-serif" font-size="9" font-weight="800">+ Новый заказ</text>
+    <text x="532" y="139" font-size="76">🍔</text>
+    <g transform="translate(24 210)">
+      <rect width="151" height="78" rx="11" fill="#3B2A20" stroke="#F4E0CE" stroke-opacity=".1"/>
+      <rect x="163" width="151" height="78" rx="11" fill="#3B2A20" stroke="#F4E0CE" stroke-opacity=".1"/>
+      <rect x="326" width="151" height="78" rx="11" fill="#3B2A20" stroke="#F4E0CE" stroke-opacity=".1"/>
+      <rect x="489" width="151" height="78" rx="11" fill="#3B2A20" stroke="#F4E0CE" stroke-opacity=".1"/>
+      <g fill="#BDAA9B" font-family="Manrope,Arial,sans-serif" font-size="8"><text x="13" y="20">Выручка сегодня</text><text x="176" y="20">Заказов сегодня</text><text x="339" y="20">Гостей в базе</text><text x="502" y="20">Средний чек</text></g>
+      <g fill="#F8F0E8" font-family="Manrope,Arial,sans-serif" font-size="17" font-weight="800"><text x="13" y="47">4 140 ₽</text><text x="176" y="47">6</text><text x="339" y="47">6</text><text x="502" y="47">828 ₽</text></g>
+      <g fill="#79C08A" font-family="Manrope,Arial,sans-serif" font-size="7"><text x="13" y="65">За текущий день</text><text x="176" y="65">В демонстрации</text><text x="339" y="65">В базе гостей</text><text x="502" y="65">Среднее значение</text></g>
+    </g>
+    <g transform="translate(24 304)">
+      <rect width="385" height="111" rx="11" fill="#2D2119" stroke="#F4E0CE" stroke-opacity=".1"/>
+      <rect x="397" width="243" height="111" rx="11" fill="#2D2119" stroke="#F4E0CE" stroke-opacity=".1"/>
+      <text x="15" y="22" fill="#F4E8DD" font-family="Manrope,Arial,sans-serif" font-size="10" font-weight="800">Как идут дела</text>
+      <text x="15" y="37" fill="#9F8E80" font-family="Manrope,Arial,sans-serif" font-size="7">Выручка по дням</text>
+      <g transform="translate(22 48)" fill="#D98235"><rect x="0" y="22" width="20" height="29" rx="4"/><rect x="46" y="10" width="20" height="41" rx="4" opacity=".7"/><rect x="92" y="17" width="20" height="34" rx="4" opacity=".7"/><rect x="138" y="3" width="20" height="48" rx="4" opacity=".7"/><rect x="184" y="13" width="20" height="38" rx="4" opacity=".7"/><rect x="230" y="0" width="20" height="51" rx="4"/><rect x="276" y="8" width="20" height="43" rx="4" opacity=".7"/></g>
+      <text x="418" y="22" fill="#F4E8DD" font-family="Manrope,Arial,sans-serif" font-size="10" font-weight="800">Заказы сегодня</text>
+      <circle cx="456" cy="70" r="26" stroke="#70B985" stroke-width="8" stroke-dasharray="72 164" transform="rotate(-90 456 70)"/>
+      <circle cx="456" cy="70" r="26" stroke="#E9A24E" stroke-width="8" stroke-dasharray="39 164" stroke-dashoffset="-74" transform="rotate(-90 456 70)"/>
+      <text x="456" y="74" text-anchor="middle" fill="#F7EDE3" font-family="Manrope,Arial,sans-serif" font-size="13" font-weight="800">6</text>
+      <g fill="#BDAA9B" font-family="Manrope,Arial,sans-serif" font-size="7"><circle cx="507" cy="57" r="3" fill="#70B985"/><text x="516" y="60">Выдано</text><circle cx="507" cy="72" r="3" fill="#E9A24E"/><text x="516" y="75">Готовятся</text><circle cx="507" cy="87" r="3" fill="#E6BD6E"/><text x="516" y="90">Новые</text></g>
+    </g>
+  </g>
+  <text x="74" y="578" fill="#806D5D" font-family="Manrope,Arial,sans-serif" font-size="10">ПОРТФОЛИО-ПРОЕКТ · ИНТЕРАКТИВНЫЙ FRONTEND-ПРОТОТИП</text>
+</svg>
